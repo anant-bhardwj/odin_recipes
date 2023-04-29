@@ -60,8 +60,24 @@ p{
     margin-left: 1rem;
 }
 
-table{
+#info{
     margin: auto;
     text-align: center;
+    width: 50%;
+}
+
+#ingredients{
+    margin: auto;
+    width: 100%;
+    text-align: left;
+    
+}
+#ingredients th{
+    text-align: center;
+    margin: auto;
+}
+
+#ingredients td{
+    text-align: left;
     width: 50%;
 }
