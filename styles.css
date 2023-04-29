@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+body{
+    background: linear-gradient(180deg, white, rgb(149, 207, 149));
+    height: 100vh;
+}
+
+.block {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.479);
+    background-color: rgb(245, 245, 241);
+}
+
+#content {
+    text-align:left ;
+    text-decoration: inherit;
+    font-size: 2rem;
+    font-family: 'comic sans';
+    font-weight: 500;
+    line-height: 50px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black ;
+}
